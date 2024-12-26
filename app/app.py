@@ -1,6 +1,7 @@
 #import modules
 import numpy as np
 import streamlit as st
+import joblib
 import pandas as pd
 import os
 

@@ -22,7 +22,7 @@ Our primary project objective is to develop highly accurate machine learning mod
 
 | Code     | Name                          | Published Article | Deployed App    |
 | -------- | ----------------------------- | ----------------- | --------------- |
-| Capstone | Telco Customer Churn Prediction | Medium Article    | Gradio  App   |
+| Capstone | Telco Customer Churn Prediction | Medium Article    | Streamlit  App   |
 
 ## Project Setup
 
@@ -81,6 +81,7 @@ The data used in this project consists of a diverse collection of sepsis cases o
 
 ## Contributing Authors
 
+- **Pamela Quartey**
 - **Christopher Wachira**
 - **Tyokase Orseer**
 - **Henry Nii Ayitey-Adjin**
